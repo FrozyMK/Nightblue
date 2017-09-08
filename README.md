@@ -1,6 +1,6 @@
-# Nightblue
-2
+# nightbloo.github.io
+This is primarely used for the styling off the NB3 community on plug.dj
 
-3
+If you're part of the team working on this please keep the folders organized
 
-3
+Appreciate thy hard work, except for Pikachu's <3 -Dyroo 
